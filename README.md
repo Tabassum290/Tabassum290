@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://i.ibb.co.com/nMCH2gNb/image.png"  />
+  <img height="500" width="1000" src="https://i.ibb.co.com/q3gYNGCY/Tabassum.png"  />
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning Java</p>
+<p align="left">- 📚 I'm learning Java</p>
 
 ###
 
